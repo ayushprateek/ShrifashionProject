@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>984847042626-6q4kd054r33bbgu18iorb51i14tubs5a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.984847042626-6q4kd054r33bbgu18iorb51i14tubs5a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>984847042626-ocptrsivecc3j2elg6k7a9drapf0ma4m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuv4Q0XU5bd0KjKLo9W_pwfeTr2MxfD3Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>984847042626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shrisolutions.shrifashion</string>
+	<key>PROJECT_ID</key>
+	<string>shrifashion-ca414</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shrifashion-ca414.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:984847042626:ios:9d8c8aaf3f256efddd05db</string>
+	<key>DATABASE_URL</key>
+	<string>https://shrifashion-ca414-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "984847042626",
+    "firebase_url": "https://shrifashion-ca414-default-rtdb.firebaseio.com",
+    "project_id": "shrifashion-ca414",
+    "storage_bucket": "shrifashion-ca414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984847042626:android:98eef66eff6df06add05db",
+        "android_client_info": {
+          "package_name": "com.shrisolutions.shrifashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984847042626-ocptrsivecc3j2elg6k7a9drapf0ma4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shrisolutions.shrifashion",
+            "certificate_hash": "c95143de28eebb363e5f28207a682595b186d485"
+          }
+        },
+        {
+          "client_id": "984847042626-031ke15c30i4cknmoffpon7c36c2g7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6cqoZ0WHzFT6oqBOzkcWrr8nBlXTo_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984847042626-031ke15c30i4cknmoffpon7c36c2g7g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984847042626-6q4kd054r33bbgu18iorb51i14tubs5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shrisolutions.shrifashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984847042626:android:62dae1bd060f8393dd05db",
+        "android_client_info": {
+          "package_name": "com.shrisolutions.shrifashionadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984847042626-u17q6r3bikmhkgjohiqkle3l9ottolqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shrisolutions.shrifashionadmin",
+            "certificate_hash": "c95143de28eebb363e5f28207a682595b186d485"
+          }
+        },
+        {
+          "client_id": "984847042626-031ke15c30i4cknmoffpon7c36c2g7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6cqoZ0WHzFT6oqBOzkcWrr8nBlXTo_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984847042626-031ke15c30i4cknmoffpon7c36c2g7g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984847042626-6q4kd054r33bbgu18iorb51i14tubs5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shrisolutions.shrifashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
